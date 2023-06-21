@@ -1,6 +1,6 @@
 <?php
 
-namespace wock\ultrepair\Commands;
+namespace wock\ultrarepair\Commands;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
@@ -12,12 +12,12 @@ use pocketmine\plugin\PluginOwned;
 use pocketmine\utils\TextFormat;
 use pocketmine\world\sound\AnvilUseSound;
 use pocketmine\world\sound\FizzSound;
-use wock\ultrepair\UltraRepair;
+use wock\ultrarepair\UltraRepair;
 
 class FixCommand extends Command implements PluginOwned {
 
     /** @var UltraRepair */
-    private UltraRepair $plugin;
+    public UltraRepair $plugin;
 
     /** @var array */
     private array $cooldowns;
