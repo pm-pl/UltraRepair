@@ -50,3 +50,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Icon
 
 <a href="https://www.flaticon.com/free-icons/wrench" title="wrench icons">Wrench icons created by Freepik - Flaticon</a>
+
+## To-Do list
+
+[ ] Add separate cooldowns for fix all
