@@ -3,7 +3,7 @@
 namespace wock\ultrepair;
 
 use pocketmine\plugin\PluginBase;
-use wock\ultrepair\Commands\FixCommand;
+use wock\ultrarepair\Commands\FixCommand;
 
 class UltraRepair extends PluginBase{
 
