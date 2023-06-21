@@ -1,0 +1,11 @@
+name: UltraRepair
+main: wock\ultrepair\UltraRepair
+api: 5.0.0
+version: 1.0.0
+author: wockgod
+
+permissions:
+  ultrarepair.fix:
+    default: true
+  ultrarepair.bypasscooldown:
+    default: op
