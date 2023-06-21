@@ -1,0 +1,11 @@
+# UltraRepair configuration
+# Set the cooldown for the command in seconds
+cooldown: 40
+# Set the messages of the command. use & for color codes
+messages:
+  no_item: "&c&l[!] &r&cYou don't have an item in hand to repair."
+  cooldown: "&cYou are still in cooldown. Please wait {remaining_time} seconds."
+  item_repaired: "&r&l&a[!] &r&aThe item in your hand has been repaired."
+  invalid_item: "&l&6[!] &r&6That item cannot be repaired. Only weapons or tools."
+  cooldown_all: "&r&4&l[!] &r&4You are still in cooldown for repairing all items. Please wait {remaining_time} seconds."
+  all_items_repaired: "&l&a[!] &r&aAll items in your inventory have been repaired."
