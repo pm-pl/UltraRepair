@@ -1,6 +1,4 @@
-# UltraRepair Plugin
-
-  <img src="icon.png" alt="UltraRepair Logo" width="32">
+# UltraRepair Plugin   <img src="icon.png" alt="UltraRepair Logo" width="64">
 
 UltraRepair is a powerful plugin for repairing items in-game on your Pocketmine-MP server. It provides players with the ability to repair their weapons and tools easily. The plugin supports repairing single items as well as repairing all items in a player's inventory.
 
