@@ -1,6 +1,6 @@
 <?php
 
-namespace wock\ultrepair;
+namespace wock\ultrarepair;
 
 use pocketmine\plugin\PluginBase;
 use wock\ultrarepair\Commands\FixCommand;
